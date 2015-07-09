@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GBK"?>
+<request>
+	<head>
+		<h_exch_code>800101</h_exch_code>
+		<h_bank_no>1111</h_bank_no>
+		<h_user_id>1038738897</h_user_id>
+		<h_branch_id>B00008211</h_branch_id>
+		<h_fact_date>20110321</h_fact_date>
+		<h_fact_time>16:28:30</h_fact_time>
+		<h_exch_date>20130929</h_exch_date>
+		<h_serial_no>123456</h_serial_no>
+		<h_rsp_code>hj123545</h_rsp_code>
+		<h_rsp_msg>ar</h_rsp_msg>
+	</head>
+	<body>
+		<record>
+			<user_pwd>54f9b3396fe28c208d525db21588965c</user_pwd>
+		</record>
+	</body>
+</request>
